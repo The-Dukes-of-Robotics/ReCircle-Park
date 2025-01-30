@@ -40,36 +40,29 @@ ReCircle Park | Κυκλικό Πάρκο Καινοτομίας: Όπου η Β
 | **1. Πιεζο-ηλεκτρικές πλάκες** | | |  
 | Capacitor | 5 | 3.00 |  
 | Magnets | 5 | 1.00 |  
-
 | **2. Έξυπνοι κάδοι κομποστοποίησης οργανικής ύλης** | | |  
 | DHT11 Sensor | 1 | 3.50 |  
 | Ultrasonic Sensor | 1 | 5.00 |  
 | ESP32 (Controller) | 1 | 10.00 |  
-
 | **3. Έξυπνα παγκάκια τροφοδοτούμενα με ηλιακή ενέργεια** | | |  
 | Flexible Solar Panels (5V, 2W) | 2 | 20.00 |  
 | Lithium-ion rechargeable Batteries | 2 | 7.00 |  
 | USB Charging Ports | 2 | 2.00 |  
-
 | **4. Σύστημα πότισης** | | |  
 | Soil Moisture Sensors (YL-69) | 2 | 4.00 |  
 | Mini DC Water Pump | 1 | 6.00 |  
 | Water Flow Sensor (YF-S201) | 1 | 5.00 |  
-
 | **5. Έξυπνες τουαλέτες με βιώσιμες λειτουργίες** | | |  
 | Water Flow Sensor (YF-S201) | 1 | 5.00 |  
 | IR Motion Sensor (HC-SR501) | 1 | 3.00 |  
 | Water Tablets | 1 | 5.00 |  
-
 | **6. Ρομπότ για εξατομικευμένη εμπειρία** | | |  
 | ESP32 Board | 1 | 10.00 |  
 | Ultrasonic Sensor (HC-SR04) | 2 | 2.00 |  
 | Speaker Module | 1 | 4.00 |  
 | LED Display (0.96" OLED) | 1 | 4.00 |  
-
 | **7. Σταθμοί φόρτισης ηλεκτρικών οχημάτων και ποδηλάτων** | | |  
 | Solar Panels | 1 | 20.00 |  
-
 | **8. Πρόπλασμα καινοτόμου 3D Printer από ανακύκλωση** | | |  
 | 3D Printer | 1 | 70.00 |  
 | Άλλα | | |  
