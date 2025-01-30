@@ -31,42 +31,52 @@ ReCircle Park | Κυκλικό Πάρκο Καινοτομίας: Όπου η Β
 
 
 
+# Κόστος μακέτας  
 
-Κόστος μακέτας  
-Section	Κομμάτι	Ποσότητα	Τιμή ανα κομμάτι (κατά προσέγγιση) (€)
-1.Πιεζο-ηλεκτρικές πλάκες	
-	Capacitor 	5	3.00	15
-	Magnets 	5	1.00	5
-2. Έξυπνοι κάδοι κομποστοποίησης οργανικής ύλης	
-	DHT11 Sensor	1	3.50	5
-	Ultrasonic Sensor	1	5.00	5
-	ESP32 (Controller)	1	10.00	10
-3. Έξυπνα παγκάκια τροφοδοτούμενα με ηλιακή ενέργεια
-	Flexible Solar Panels (5V, 2W)	2	20.00	40
-	Lithium-ion rechargable Batteries 	2	7.00	14
-	USB Charging Ports	2	2.00	4
-4. Σύστημα πότισης
-	Soil Moisture Sensors(YL-69)	2	4.00	8
-	Mini DC Water Pump	1	6.00	6
-	Water Flow Sensor(YF-S201)	1	5.00	5
-5. Έξυπνες τουαλέτες με βιώσιμες λειτουργίες
-	Water Flow Sensor(YF-S201)	1	5.00	5
-	IR Motion Sensor(HC-SR501)	1	3.00	3
-	Water Tablets 	1	5.00	5
-6. Ρομπότ για εξατομικευμένη εμπειρία
-	ESP32 Board	1	10.00	10
-	Ultrasonic Sensor(HC-SR04)	2	2.00	4
-	Speaker Module	1	4.00	4
-	LED Display (0.96" OLED)	1	4.00	4
-7. Σταθμοί φόρτισης ηλεκτρικών οχημάτων και ποδηλάτων
-	Solar panels	1	20.00	20
-8. Πρόπλασμα καινοτόμου
-	3D Printer από ανακύκλωση	1	70	70
-Άλλα	
-	Led	10	0.25	2.5
-	PLA	2	20	40
-	Solar panels    2 	20	40
-	Tubes	1	10	10
-	Raspberry Pi 4	1	1	60
-				
-Total Estimated Cost μακέτας				430€
+## Section  
+
+| Κομμάτι | Ποσότητα | Τιμή ανά κομμάτι (κατά προσέγγιση) (€) |  
+|---------|----------|-----------------------------------|  
+| **1. Πιεζο-ηλεκτρικές πλάκες** | | |  
+| Capacitor | 5 | 3.00 |  
+| Magnets | 5 | 1.00 |  
+
+| **2. Έξυπνοι κάδοι κομποστοποίησης οργανικής ύλης** | | |  
+| DHT11 Sensor | 1 | 3.50 |  
+| Ultrasonic Sensor | 1 | 5.00 |  
+| ESP32 (Controller) | 1 | 10.00 |  
+
+| **3. Έξυπνα παγκάκια τροφοδοτούμενα με ηλιακή ενέργεια** | | |  
+| Flexible Solar Panels (5V, 2W) | 2 | 20.00 |  
+| Lithium-ion rechargeable Batteries | 2 | 7.00 |  
+| USB Charging Ports | 2 | 2.00 |  
+
+| **4. Σύστημα πότισης** | | |  
+| Soil Moisture Sensors (YL-69) | 2 | 4.00 |  
+| Mini DC Water Pump | 1 | 6.00 |  
+| Water Flow Sensor (YF-S201) | 1 | 5.00 |  
+
+| **5. Έξυπνες τουαλέτες με βιώσιμες λειτουργίες** | | |  
+| Water Flow Sensor (YF-S201) | 1 | 5.00 |  
+| IR Motion Sensor (HC-SR501) | 1 | 3.00 |  
+| Water Tablets | 1 | 5.00 |  
+
+| **6. Ρομπότ για εξατομικευμένη εμπειρία** | | |  
+| ESP32 Board | 1 | 10.00 |  
+| Ultrasonic Sensor (HC-SR04) | 2 | 2.00 |  
+| Speaker Module | 1 | 4.00 |  
+| LED Display (0.96" OLED) | 1 | 4.00 |  
+
+| **7. Σταθμοί φόρτισης ηλεκτρικών οχημάτων και ποδηλάτων** | | |  
+| Solar Panels | 1 | 20.00 |  
+
+| **8. Πρόπλασμα καινοτόμου 3D Printer από ανακύκλωση** | | |  
+| 3D Printer | 1 | 70.00 |  
+| Άλλα | | |  
+| Led | 10 | 0.25 |  
+| PLA | 2 | 20.00 |  
+| Solar Panels | 2 | 20.00 |  
+| Tubes | 1 | 10.00 |  
+| Raspberry Pi 4 | 1 | 60.00 |  
+
+**Total Estimated Cost μακέτας: 430€**  
